@@ -1,0 +1,6 @@
+# mysql_php5.5
+Let MySQL_ extension work on PHP 5.5 and upper
+
+JUST INCLUDE THE FILE IN YOUR OLD PROJECT SCRIPTS AND IT WILL WORK AUTOMATICALLY, ON ALL PHP VERSIONS EVEN THOSE WHICH STILL SUPPORT MY_SQL EXTENTION
+
+This file replace MySQL_ Extention (If not exists) with MySQLi extenstion.
